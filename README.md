@@ -1,8 +1,9 @@
 # Detecting COVID-19 with Chest X-Ray using PyTorch
 
+Repository: **detecting-covid-xray-pytorch**
 ## 📌 Project Overview
 
-This project demonstrates a complete machine learning workflow for classifying chest X-ray images into three categories: Normal, Viral Pneumonia, and COVID-19. It was developed as part of a guided hands-on course using PyTorch and ResNet-18, with a focus on medical imaging and deep learning.
+This project demonstrates a complete machine learning workflow for classifying chest X-ray images into three categories: Normal, Viral Pneumonia, and COVID-19. It was developed as part of a guided hands-on Coursera project using PyTorch and ResNet-18, with a focus on medical imaging and deep learning.
 
 ## 🚀 Key Features
 
@@ -41,7 +42,7 @@ This project demonstrates a complete machine learning workflow for classifying c
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-xray-classification.git
+   git clone https://github.com/yourusername/detecting-covid-xray-pytorch.git
    ```
 2. Open `complete_notebook.ipynb` in Jupyter Notebook or VS Code.
 3. Run the cells sequentially to see preprocessing, model training, and evaluation.
